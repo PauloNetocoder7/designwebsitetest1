@@ -1,0 +1,6 @@
+{
+  "name": "Célia Coll — Psychologue Clinicienne",
+  "description": "Site professionnel pour Célia Coll - Psychologue Clinicienne à Toulouse, consultations individuelles, TCC et EMDR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
